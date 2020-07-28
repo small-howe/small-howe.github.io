@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://small-howe.github.io</id>
     <title>Gridea</title>
-    <updated>2020-07-28T10:04:29.995Z</updated>
+    <updated>2020-07-28T10:25:18.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://small-howe.github.io"/>
     <link rel="self" href="https://small-howe.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://small-howe.github.io/images/avatar.png</logo>
     <icon>https://small-howe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[ Hello World]]></title>
+        <id>https://small-howe.github.io/post/hello-world/</id>
+        <link href="https://small-howe.github.io/post/hello-world/">
+        </link>
+        <updated>2020-07-28T10:07:34.000Z</updated>
+        <content type="html"><![CDATA[<p>emmm......</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://small-howe.github.io/post/hello-gridea/</id>
@@ -22,9 +31,7 @@
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
+<p><a href="https://github.com/">Github</a></p>
 <h2 id="特性">特性👇</h2>
 <p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
 <p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
